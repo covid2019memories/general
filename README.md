@@ -4,8 +4,8 @@
 
 Minimum viable product
 
-![MVP](https://raw.githubusercontent.com/covid2019memories/general/master/images/mvp-orig.png=50x40)
-![MVP](https://raw.githubusercontent.com/covid2019memories/general/master/images/mvp-iphn.png=320x40)
+<img src="https://raw.githubusercontent.com/covid2019memories/general/master/images/mvp-orig.png" height="360">
+<img src="https://raw.githubusercontent.com/covid2019memories/general/master/images/mvp-iphn.png" height="360">
 
 Information architecture
 
