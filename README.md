@@ -21,6 +21,6 @@ Information architecture
 
 This part may be changed in future, too heavy.
 
-![MVP](https://raw.githubusercontent.com/covid2019memories/general/master/images/infoarch.jpeg)
+![infoarch](https://raw.githubusercontent.com/covid2019memories/general/master/images/infoarch.jpeg)
 
 
